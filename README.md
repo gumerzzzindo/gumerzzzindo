@@ -2,9 +2,6 @@
 
 Soy gumerzzzindo, un apasionado por la tecnología y la seguridad cibernética. Mi viaje en el mundo de la programación está centrado en Python, explorando sus posibilidades y aplicaciones en el ámbito cibernético.
 ## Sobre Mí
-<br/>
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-<br/>
 - 👨‍💻 Estoy enfocado en aprender y mejorar mis habilidades en desarrollo web (Full Stack) y administración de sistemas Linux.
 - 🌐 Actualmente, me encuentro en el emocionante camino de convertirme en un desarrollador Full Stack para crear aplicaciones web asombrosas y seguras.
 - 🔐 Mi interés en la ciberseguridad me lleva a explorar cómo Python puede ser una herramienta poderosa en este campo, desde scripting hasta análisis forense.
