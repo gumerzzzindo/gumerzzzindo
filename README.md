@@ -18,4 +18,4 @@ Soy gumerzzzindo, un apasionado por la tecnología y la seguridad cibernética. 
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por lo que depara el futuro en mi viaje de aprendizaje en el mundo de la tecnología y la ciberseguridad. Conéctate conmigo y descubramos juntos las posibilidades infinitas que Python y el desarrollo web tienen para ofrecer.
 
-There are people who, to serve the light, must work in the shadows.
+⚖There are people who, to serve the light, must work in the shadows.
