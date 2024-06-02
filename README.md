@@ -1,6 +1,8 @@
 # ¡Hola, Submundo! 👋
 
 Soy gumerzzzindo, un apasionado por la tecnología y la seguridad cibernética. Mi viaje en el mundo de la programación está centrado en Python, explorando sus posibilidades y aplicaciones en el ámbito cibernético.
+![GitHub Followers](https://img.shields.io/github/followers/gumerzzzindo?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/gumerzzzindo?style=social)
 ## Sobre Mí
 - 👨‍💻 Estoy enfocado en aprender y mejorar mis habilidades en desarrollo web (Full Stack) y administración de sistemas Linux.
 - 🌐 Actualmente, me encuentro en el emocionante camino de convertirme en un desarrollador Full Stack para crear aplicaciones web asombrosas y seguras.
