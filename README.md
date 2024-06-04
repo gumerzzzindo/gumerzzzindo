@@ -6,7 +6,7 @@ Soy gumerzzzindo, un apasionado por la tecnología, la seguridad cibernética y 
 
 ![GitHub Followers](https://img.shields.io/github/stars/gumerzzzindo?style=social)
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=6f6114869171&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+www.gumerzzzindo.xyz
 
 ## Sobre Mí
 - 👨‍💻 Estoy enfocado en hacking ético y reversing, así como en el desarrollo Full Stack con tecnologías modernas.
@@ -27,3 +27,5 @@ Soy gumerzzzindo, un apasionado por la tecnología, la seguridad cibernética y 
 ¡Gracias por visitar mi perfil! Estoy emocionado por lo que depara el futuro en mi viaje de aprendizaje en el mundo de la tecnología y la ciberseguridad. Conéctate conmigo y descubramos juntos las posibilidades infinitas que Python, el desarrollo web y la seguridad cibernética tienen para ofrecer.
 
 ⚖ "There are people who, to serve the light, must work in the shadows."
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=6f6114869171&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
